@@ -115,6 +115,4 @@ Deeply interested in clean architecture, performance, and security.
   <i>✨ 3+ Months Internship &nbsp;·&nbsp; 5+ Projects Built &nbsp;·&nbsp; 7+ Certifications &nbsp;·&nbsp; 100% Dedication</i>
 </p>
 
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/sparklingwtr1">Kelvin Roel Dela Luz</a>
-</p>
+
